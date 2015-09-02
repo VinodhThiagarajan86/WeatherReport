@@ -1,0 +1,28 @@
+body{
+  font-family: monospace;
+  font-size: 2em;
+  font-style: italic;
+  color: black;
+}
+
+section#temperatureBoard{
+	padding-top: 200px;
+    height: 2000px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.well{
+	background-color: transparent;
+}
+
+
+.footerClass{
+	color: white;
+	padding-top: 400px;
+}
+
+div > a{
+	color: white;
+}
